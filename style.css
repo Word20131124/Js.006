@@ -1,0 +1,62 @@
+.body{
+    background: #000;
+}
+.inp{
+    width: 360px;
+    height: 30px;
+    border-radius: 30px;
+}
+.but{
+    width: 70px;
+    height: 35px;
+    border-radius: 9px;
+    background: #262424;
+    color: #fff;
+}
+.but1{
+    font-size: 100px;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 50px;
+    background: none;
+    border: none;
+}
+.h1{
+    color: red;
+    font-size: 100px;
+}
+.div{
+    width: 478px;
+    height: 134px;
+    background: #262424;
+    border-radius: 32px;
+    display: flex;
+    gap: 81px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-top: 90px;
+}
+.h11{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 900;
+}
+.div2{
+   margin-left: 500px;
+   margin-top: 250px;
+}
+.div4{
+    display: flex;
+    gap: 30px;
+}
+.div5{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+ 
+}
+.inp1{
+    width: 90px;
+    height: 35px;
+}
